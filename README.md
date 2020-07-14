@@ -5,7 +5,7 @@
 ![Code Quality](https://img.shields.io/badge/code%20quality-He%20tries%20his%20best-brightgreen)
 ![Vulnerabilities](https://img.shields.io/badge/vulnerabilities-spiders%20and%20javascript-red)
 ![Tech Debt](https://img.shields.io/badge/tech%20debt-university-orange)
-![Profession](https://img.shields.io/badge/profession-materials%20science-blue)
+![Complexity](https://img.shields.io/badge/complexity-enthusiastic%20amateur-blue)
 
 ## Bio
 

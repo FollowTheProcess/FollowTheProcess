@@ -3,7 +3,7 @@
 *AKA Tom*
 
 ![Code Quality](https://img.shields.io/badge/code%20quality-He%20tries%20his%20best-brightgreen)
-![Vulnerabilities](https://img.shields.io/badge/vulnerabilities-spiders%20and%20javascript-red)
+![Vulnerabilities](https://img.shields.io/badge/vulnerabilities-spiders%20and%20java-red)
 ![Tech Debt](https://img.shields.io/badge/tech%20debt-university-orange)
 ![Complexity](https://img.shields.io/badge/complexity-enthusiastic%20amateur-blue)
 
@@ -17,7 +17,7 @@ I'm Tom, a materials engineer in the UK. On a day to day basis I melt, bend, bre
 
 Recently I'm trying my hand at Python programming and Data Science :bar_chart:
 
-### Things I Can Kinda Do
+### Things I Do
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Pandas" width="26px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />

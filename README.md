@@ -5,17 +5,17 @@
 ![Code Quality](https://img.shields.io/badge/code%20quality-He%20tries%20his%20best-brightgreen)
 ![Vulnerabilities](https://img.shields.io/badge/vulnerabilities-spiders%20and%20java-red)
 ![Tech Debt](https://img.shields.io/badge/tech%20debt-university-orange)
-![Complexity](https://img.shields.io/badge/complexity-enthusiastic%20amateur-blue)
+![Complexity](https://img.shields.io/badge/complexity-enthusiastic-blue)
 
 ## Bio
 
-*Materials & Process Engineer turned python programmer! :nerd_face:*
+*Materials & Process Engineer turned python developer! :nerd_face:*
 
 Old enough to remember these -> :vhs:, but too young to remember these -> :fax:
 
-I'm Tom, a materials engineer in the UK. On a day to day basis I melt, bend, break, cut up, look at, and measure metal things :microscope:
+I'm Tom, I used to be a materials engineer but I taught myself to code and now I make money writing magic computer words instead! :computer:
 
-Recently I'm trying my hand at Python programming and Data Science :bar_chart:
+My day to day involves Python, SQL, Django, Machine Learning and Data Analysis, I dabble in Go on the side and I'm trying to learn Rust but Python -> Rust is hard! :grimacing:
 
 [https://followtheprocess.github.io](https://followtheprocess.github.io)
 

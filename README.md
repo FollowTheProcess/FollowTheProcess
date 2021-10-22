@@ -42,6 +42,7 @@ I dabble in Go in my side projects and I'm in a perpetual state of trying to lea
 
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+<img align="left" alt="Openfaas" width="26px" src="https://www.openfaas.com/images/openfaas/whale.png" />
 
 <br>
 

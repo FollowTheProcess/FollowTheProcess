@@ -17,7 +17,7 @@ I'm Tom, I used to be a materials engineer but I taught myself to code and now I
 
 My day to day involves Python, SQL, Django, DRF, APIs, Data Analysis and Machine Learning.
 
-I dabble in Go in my side projects and I'm in a perpetual state of trying to learn new stuff!
+I do a lot of Go in my side projects and I'm in a perpetual state of trying to learn new stuff!
 
 ### Tech Stack
 

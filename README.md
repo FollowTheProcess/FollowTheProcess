@@ -5,15 +5,12 @@
 ![Code Quality](https://img.shields.io/badge/code%20quality-He%20tries%20his%20best-brightgreen)
 ![Vulnerabilities](https://img.shields.io/badge/vulnerabilities-spiders%20and%20java-red)
 ![Tech Debt](https://img.shields.io/badge/tech%20debt-university-orange)
-![Complexity](https://img.shields.io/badge/complexity-less%20is%20more-blue)
 
 ## Bio
 
-**Python | Go Backend Developer 🤓**
+**Python | AWS | Go Developer**
 
-Old enough to remember these -> :vhs:, but too young to remember these -> :fax:
-
-I'm Tom, I used to be a materials engineer but I taught myself to code and now I make money writing magic computer words instead! :computer:
+I'm Tom, I used to be a aerospace/materials engineer but I taught myself to code and now I make money writing magic computer words instead! :computer:
 
 My day to day involves a lot of Python and AWS.
 
@@ -26,9 +23,7 @@ I do a lot of Go in my side projects and I'm in a perpetual state of trying to l
 > *I use one or more of these basically every day...*
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"/>
 <img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />

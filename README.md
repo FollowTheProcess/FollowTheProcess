@@ -8,7 +8,7 @@
 - Highly proficient in Python, Go, and AWS
 - Always keen to learn new skills and tech
 - Pretty much constantly hacking on personal projects
-- Love writing CLI (not really sure why, I just can't get enough)
+- Love writing CLIs (not really sure why, I just can't get enough)
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FollowTheProcess&title=Commits,Issues,PullRequest,Repositories,Stars&theme=nord&column=-1" alt="FollowTheProcess-trophy" /></a> </p>

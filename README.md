@@ -6,7 +6,7 @@
 
 - Self taught software engineer currently working in the fintech sector
 - Highly proficient in Python, Go, and AWS
-- Always keen to learn new skills and tech
+- Always keen to learn new skills and tech (latest is trying to learn Rust 🤓)
 - Pretty much constantly hacking on personal projects
 - Love writing CLIs (not really sure why, I just can't get enough)
 
@@ -46,9 +46,9 @@ Not everything is here but a few of my favourites 🤓
 #### [Pytoil]
 
 - Python CLI that automates a bunch of python developer tasks
-- Automatic cloning of GitHub projects
+- Automatic cloning of GitHub projects (concurrently!)
 - Virtual environment detection and auto-creation
-- Concurrently clone all your projects
+- Integration with the GitHub GraphQL API
 
 #### [Nox]
 

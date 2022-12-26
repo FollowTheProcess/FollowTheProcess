@@ -4,9 +4,9 @@
 
 <h3 align="center">About Me</h3>
 
-- Self taught software engineer currently working in the fintech sector
+- Self taught Software Engineer currently working in the fintech sector
 - Highly proficient in Python, Go, and AWS
-- Always keen to learn new skills and tech (latest is trying to learn Rust 🤓)
+- Always keen to learn new skills and tech (latest is learning Rust 🤓)
 - Pretty much constantly hacking on personal projects
 - Love writing CLIs (not really sure why, I just can't get enough)
 
@@ -58,7 +58,6 @@ Not everything is here but a few of my favourites 🤓
 
 #### [Spok]
 
-- Currently still in development (but getting there!)
 - Modern, lightweight, concurrent build system/task runner written in Go
 - Alternative/improvement over e.g. [make], [just]
 - Custom hand-rolled declarative language including lexer, parser and AST

@@ -23,7 +23,7 @@
 
 ### Tech Stack
 
-<table><tr><td valign="top" align="center" width="33%">
+<table align="center"><tr><td valign="top" align="center" width="33%">
 
 #### Languages  
 

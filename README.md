@@ -4,11 +4,13 @@
 
 <h3 align="center">About Me</h3>
 
-- Self taught Software Engineer currently working in the fintech sector
-- Highly proficient in Python, Go, and AWS
-- Always keen to learn new skills and tech (latest is learning Rust 🤓)
-- Pretty much constantly hacking on personal projects
-- Love writing CLIs (not really sure why, I just can't get enough)
+- Experienced Software/DevOps Engineer currently working in the fintech sector
+- Pretty much constantly hacking on side projects
+  - Parsers
+  - CLI tools
+  - Useful libraries/frameworks
+  - Automation
+  - Open Source
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FollowTheProcess&title=Commits,Issues,PullRequest,Repositories,Stars&theme=nord&column=-1" alt="FollowTheProcess-trophy" /></a> </p>
@@ -60,37 +62,6 @@
 
 <br/>  
 
-### Current Projects
-
-Not everything is here but a few of my favourites 🤓
-
-#### [Pytoil]
-
-- Python CLI that automates a bunch of python developer tasks
-- Automatic cloning of GitHub projects (concurrently!)
-- Virtual environment detection and auto-creation
-- Integration with the GitHub GraphQL API
-
-#### [Nox]
-
-- Maintainer since September 2021
-- Python automation and testing toolkit
-- Used by a bunch of high profile projects e.g. [pip], [pipx] etc.
-
-#### [Spok]
-
-- Modern, lightweight, concurrent build system/task runner written in Go
-- Alternative/improvement over e.g. [make], [just]
-- Custom hand-rolled declarative language including lexer, parser and AST
-- Incremental builds based on file hashing and sum checks
-
-#### [Tag]
-
-- Semantic versioning CLI written in Go
-- Interact seamlessly with semver git tags
-- Perform semver bumping with a single command
-- Implements search and replace templating for bumping project metadata files
-
 #### Contact
 
 <div align="left">
@@ -101,12 +72,3 @@ Not everything is here but a few of my favourites 🤓
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-[pip]: https://github.com/pypa/pip
-[pipx]: http://github.com/pypa/pipx
-[make]: https://www.gnu.org/software/make/
-[just]: https://github.com/casey/just
-[Nox]: https://github.com/wntrblm/nox
-[Pytoil]: https://github.com/FollowTheProcess/pytoil
-[Spok]: https://github.com/FollowTheProcess/spok
-[Tag]: https://github.com/FollowTheProcess/tag

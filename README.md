@@ -1,6 +1,8 @@
 # Hello 👋
 
-My name is Tom, I'm an experienced Software Engineer with a keen interest in DevOps and DevEx. I pretty much constantly hack on side projects (some of which I even finish!)
+My name is Tom, I'm an experienced Software Engineer with a keen interest in DevOps and DevEx, which is lucky because that's my day job.
+
+Outside of that I pretty much constantly hack on side projects, some of which I even finish...
 
 ## Tech Stack
 

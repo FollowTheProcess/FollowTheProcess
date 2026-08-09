@@ -19,23 +19,16 @@ Outside of that I pretty much constantly hack on side projects, some of which I 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nix" height="60" alt="nix logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo"  />
   <img width="12" />
-</div>
-
-## Stats
-
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FollowTheProcess&title=Commits,Issues,PullRequest,Repositories,Stars&theme=nord&column=-1" alt="FollowTheProcess-trophy" /></a> </p>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=FollowTheProcess" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=FollowTheProcess&exclude_repo=followtheprocess.github.io" height="150" alt="languages graph"  />
 </div>
 
 ### Contact
